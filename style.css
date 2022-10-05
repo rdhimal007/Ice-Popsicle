@@ -1,0 +1,28 @@
+H1{
+    color:aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+H2{
+    color:blue;
+
+}
+
+H1, H2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+p{
+    letter-spacing: 2px;
+    /* padding-left: 10%; */
+    background: blueviolet;
+    width: 80%;
+    margin: auto;
+}
+a{
+    color:pink;
+    text-decoration:none;
+    padding: 1em 0;
+    display: block;
+}
